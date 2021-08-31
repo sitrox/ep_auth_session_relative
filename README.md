@@ -1,8 +1,10 @@
-ep_auth_session
-=============
+ep_auth_session_relative
+========================
 
 A small script for [etherpad-lite](https://github.com/ether/etherpad-lite) which provides a route that authenticates the user with the provided sessionID parameter and redirects to the given padName.
 Usefull when integrating etherpad in a application on a another domain.
+
+**This is a custom fork that omits the beginning slash (`/`) when composing the redirection URL.**
 
 [![NPM version][npm-image]][npm-url]
 [![node version][node-image]][node-url]
