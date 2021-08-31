@@ -11,18 +11,18 @@ Usefull when integrating etherpad in a application on a another domain.
 [![license][license-image]][license-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: http://img.shields.io/npm/v/ep_auth_session.svg?style=flat-square
-[npm-url]: http://www.npmjs.com/package/ep_auth_session
+[npm-image]: http://img.shields.io/npm/v/ep_auth_session_relative.svg?style=flat-square
+[npm-url]: http://www.npmjs.com/package/ep_auth_session_relative
 [node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
-[license-image]: https://img.shields.io/npm/l/ep_auth_session.svg?style=flat-square
-[license-url]: https://www.npmjs.com/package/ep_auth_session
-[download-image]: https://img.shields.io/npm/dt/ep_auth_session.svg?style=flat-square
-[download-url]: https://www.npmjs.com/package/ep_auth_session
+[license-image]: https://img.shields.io/npm/l/ep_auth_session_relative.svg?style=flat-square
+[license-url]: https://www.npmjs.com/package/ep_auth_session_relative
+[download-image]: https://img.shields.io/npm/dt/ep_auth_session_relative.svg?style=flat-square
+[download-url]: https://www.npmjs.com/package/ep_auth_session_relative
 
 
 ## Install
-[![ep_auth_session](https://nodei.co/npm/ep_auth_session.png)](https://www.npmjs.com/package/ep_auth_session)
+[![ep_auth_session_relative](https://nodei.co/npm/ep_auth_session_relative.png)](https://www.npmjs.com/package/ep_auth_session_relative)
 
 Restart your etherpad-lite instance to recognize the plugin.
 
